@@ -23,8 +23,6 @@ add_action( 'admin_init',  'accessories_usa_developer_access');
 
 add-sharing-buttons-to-wordpress-no-plugins-or-external-references/
 
-
-
 TWITTER:
 <a href="http://twitter.com/home/?status=<?php the_title(); ?> - <?php the_permalink(); ?>" title="Tweet this!"></a>
 
